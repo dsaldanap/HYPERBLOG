@@ -10,5 +10,6 @@ Repositorio para el [curso de Git y GitHub](http://platzi.com/cursos/git-github/
 * Trucos muy locos por el profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible platzi team
+* Incluye ejemplos en Windows, lINUX Y mac
 
 Y como un amable recordatorio: **Este redme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor [**ve a ver el curso**](http://platzi.com/cursos/git-github/ "ve a ver el curso")
